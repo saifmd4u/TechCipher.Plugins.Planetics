@@ -13,7 +13,7 @@ Look at the following articles for more details of implementation
 - http://www.saifikram.com/2014/01/using-google-analytics-api-and-planataryjs-to-show-traffic-accross-the-globe-part-1
 - http://www.saifikram.com/2014/01/using-google-analytics-api-and-planataryjs-to-show-traffic-accross-the-globe-part-2
 
-!/images/plantics.png!
+![alt tag](https://raw.github.com/saifmd4u/TechCipher.Plugins.Planetics/master/images/plantics.png)
 
 Notes
 =====
