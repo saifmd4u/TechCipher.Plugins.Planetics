@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>TechCipher.Plugins.Planetics</id>
+    <version>2.0.0</version>
+    <authors>Saif</authors>
+    <owners>Saif</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>TechCipher.Plugins.Planetics</description>
+  </metadata>
+</package>

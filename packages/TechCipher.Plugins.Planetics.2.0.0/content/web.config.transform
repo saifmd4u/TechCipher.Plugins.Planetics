@@ -1,0 +1,30 @@
+<configuration>
+  
+	<appSettings>
+    
+		<add key="TechCipher.Google.Planetics.APIClientId" value="999999999999999999999999999999999999999999999@developer.gserviceaccount.com" />
+    
+		<add key="TechCipher.Google.Planetics.APIKeyPath" value="9999999999999999999999999999999999999999-privatekey.p12" />
+    
+		<add key="TechCipher.Google.Planetics.APIKeyPassword" value="9999999999" />
+    
+		<add key="TechCipher.Google.Planetics.GAId" value="99999999" />
+    
+		<add key="TechCipher.Google.Planetics.StartDays" value="n1" />
+    
+		<add key="TechCipher.Google.Planetics.EndDays" value="n2" />
+    
+	 </appSettings>
+  
+	 <system.webServer>    
+     
+		<staticContent>
+      
+		  <mimeMap fileExtension=".json" mimeType="application/json" />
+      
+		</staticContent>
+     
+	</system.webServer>  
+  
+</configuration>
+
